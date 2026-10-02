@@ -1,5 +1,7 @@
 # Omafiles
 
+> **Fork and authorship:** This is a public fork of [Percius04/omafiles](https://github.com/Percius04/omafiles), originally created and maintained by **Josema ([Percius04](https://github.com/Percius04))**. The startup crash fix in `main.cpp` is credited by the upstream project to **[Flaxenox](https://github.com/Flaxenox)**. This fork is published by **[vitobfr](https://github.com/vitobfr)** with the original history and MIT license preserved.
+
 A keyboard-first **multi-panel** file manager for [Omarchy](https://omarchy.org), built as a **Qt6 standalone application** (`v1.2.0`). It is not a wrapper around Nautilus/Dolphin/Thunar, and not a layer-shell popup either — it's a real, tileable window that opens and behaves like any other app on your desktop, using Omarchy's own design system (`qs.Commons`/`qs.Ui`) end to end: same typography, same borders, same hover/selection chrome, same Nerd Font icons as the rest of the shell.
 
 ![Omafiles screenshot](preview.png)
